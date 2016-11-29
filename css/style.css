@@ -1,0 +1,41 @@
+/* --------------------------------------------------------
+Style Sheet for Website's Name : 
+version: 1.0
+last modified: 
+email: aminuldev1@gmail.com
+website: 
+author: 
+author URL: aminuldev.com
+----------------------------------------------------------*/
+
+.main{
+	width: 600px;
+	height: auto;
+	margin: 10px auto;
+}
+.sidebar,.main-content,.header,.content,.footer{
+	text-align: center;
+	border: 1px solid red;
+}
+.sidebar{
+	width: 19%;
+	float: left;
+	background: #777777;
+	height: 500px;
+}
+.main-content{
+	width: 80%;
+	float: right;
+}
+.header{
+	background: #AAAAAA;
+	height: 99px;
+}
+.content{
+	height: 299px;
+}
+.footer{
+	border-top: 2px solid #ddd;
+	background: #fff;
+	height: 98px;
+}
